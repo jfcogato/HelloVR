@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/commonwidget/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="90610ad493c95170a760e1cc53b78ce423ada585">
+        <dex dex="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-commonwidget_ba1150c1d11ed081a484e65863bd8ce00661d9c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/controller/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="827f7c35f63d07f64fd1e97848677aabe1bec75b">
+        <dex dex="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-controller_28a8a27cbaff884aa3766f68062bcd009d8de01c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/base/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="938032470efa6ee5f87a14ec86f290316fa147e4">
+        <dex dex="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-base_67a170623423bf376ebe402975bafdf128d2e669/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80790157fdd531aba75535d362f0227cc3a63486">
+        <dex dex="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-common_a300c95726e54a5f846f027b70bbd7c25e467004/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/panowidget/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="50ffb01fccd0ff8a83bdf1dabc9899597f3fe84e">
+        <dex dex="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-panowidget_6fec198cafc8ede30ae4f67a770d389bf739fecd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f811a6ce8e21e6f4950ef3ed186dd03a67277cfd">
+        <dex dex="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_db2c3c0974e8f913c71f00f2e0e7163b9e8366ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/videowidget/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ab049f0d4e8afee210a893ca9ca71d3c46dca094">
+        <dex dex="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-videowidget_c05dd485e2395d31bb0f7dec162ae76bf7578c0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26316708ed4f947ae5d0a744abb7ec2d74255cd7">
+        <dex dex="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_acabe7b855a3c7da9b7d185746305d11037de0bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/.gradle/caches/modules-2/files-2.1/com.google.protobuf.nano/protobuf-javanano/3.0.0-alpha-7/52587934797e3433992a9d69178a1471e4a8f85d/protobuf-javanano-3.0.0-alpha-7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="52587934797e3433992a9d69178a1471e4a8f85d">
+        <dex dex="/home/juan/curro/HelloOpenGLES20/app/build/intermediates/transforms/dex/debug/folders/1000/10/protobuf-javanano-3.0.0-alpha-7_d8d17e5dfb506695c144aa3389233806a4ecbdee/classes.dex" />
+    </item>
+
+</items>

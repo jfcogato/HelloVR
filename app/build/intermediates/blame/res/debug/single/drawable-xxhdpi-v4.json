@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_fullscreen_white_24.png",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/commonwidget/res/drawable-xxhdpi-v4/quantum_ic_fullscreen_white_24.png"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_settings_white_24.png",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/drawable-xxhdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_info_white_24.png",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/commonwidget/res/drawable-xxhdpi-v4/quantum_ic_info_white_24.png"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_cardboard_white_24.png",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/commonwidget/res/drawable-xxhdpi-v4/quantum_ic_cardboard_white_24.png"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quantum_ic_close_white_24.png",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/drawable-xxhdpi-v4/quantum_ic_close_white_24.png"
+    }
+]

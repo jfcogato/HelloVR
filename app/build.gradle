@@ -1,0 +1,36 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "24.0.2"
+
+    defaultConfig {
+        applicationId "com.example.android.opengl"
+        minSdkVersion 21
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    dependencies {
+        compile(name:'common', ext:'aar')
+        compile(name:'base', ext:'aar')
+        compile(name:'commonwidget', ext:'aar')
+        compile(name:'controller', ext:'aar')
+        compile(name:'panowidget', ext:'aar')
+        compile(name:'videowidget', ext:'aar')
+
+        compile 'com.google.protobuf.nano:protobuf-javanano:3.0.0-alpha-7'
+    }
+
+    repositories{
+        flatDir{
+            dirs 'libs'
+        }
+    }
+}

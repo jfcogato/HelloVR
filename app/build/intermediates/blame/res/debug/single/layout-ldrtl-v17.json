@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/back_button.xml",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/layout-ldrtl-v17/back_button.xml"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/settings_button.xml",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/layout-ldrtl-v17/settings_button.xml"
+    }
+]

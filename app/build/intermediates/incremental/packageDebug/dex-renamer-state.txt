@@ -1,0 +1,7 @@
+#Tue Oct 25 15:00:24 CEST 2016
+base.0=/home/juan/curro/HelloOpenGLES20/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_db2c3c0974e8f913c71f00f2e0e7163b9e8366ed
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/juan/curro/HelloOpenGLES20/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_acabe7b855a3c7da9b7d185746305d11037de0bc/classes.dex
+base.1=/home/juan/curro/HelloOpenGLES20/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_acabe7b855a3c7da9b7d185746305d11037de0bc
+file.0=/home/juan/curro/HelloOpenGLES20/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_db2c3c0974e8f913c71f00f2e0e7163b9e8366ed/classes.dex

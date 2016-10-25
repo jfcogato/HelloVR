@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/raw/grid_fragment.shader",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/src/main/res/raw/grid_fragment.shader"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/raw/light_vertex.shader",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/src/main/res/raw/light_vertex.shader"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/raw/passthrough_fragment.shader",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/src/main/res/raw/passthrough_fragment.shader"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/layout-land/ui_layer_with_portrait_support.xml",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/layout-land/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/layout-land/settings_button.xml",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/layout-land/settings_button.xml"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/layout-land/back_button.xml",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/layout-land/back_button.xml"
+    }
+]

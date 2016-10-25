@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/layout/transition_view.xml",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/layout/transition_view.xml"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/layout/ui_layer.xml",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/layout/ui_layer.xml"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/layout/settings_button.xml",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/layout/settings_button.xml"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/layout/ui_view_embed.xml",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/commonwidget/res/layout/ui_view_embed.xml"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/layout/ui_layer_with_portrait_support.xml",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/layout/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/res/merged/debug/layout/back_button.xml",
+        "source": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/layout/back_button.xml"
+    }
+]

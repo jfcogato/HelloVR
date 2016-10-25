@@ -1,0 +1,785 @@
+[
+    {
+        "outputFile": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 56,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 196,
+                        "endColumn": 52,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 53,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 249,
+                        "endColumn": 49,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 54,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 376,
+                        "endColumn": 50,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 57,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 427,
+                        "endColumn": 53,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 46,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/commonwidget/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 151,
+                        "endColumn": 42,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 61,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 481,
+                        "endColumn": 57,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 48,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/commonwidget/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 276,
+                        "endColumn": 44,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 56,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 738,
+                        "endColumn": 56,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endLine": 12,
+                    "endColumn": 11,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 617,
+                        "endLine": 15,
+                        "endColumn": 11,
+                        "endOffset": 847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endLine": 15,
+                    "endColumn": 13,
+                    "endOffset": 1082
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 848,
+                        "endLine": 18,
+                        "endColumn": 13,
+                        "endOffset": 1151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1087,
+                    "endLine": 18,
+                    "endColumn": 11,
+                    "endOffset": 1373
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 1152,
+                        "endLine": 21,
+                        "endColumn": 11,
+                        "endOffset": 1438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1378,
+                    "endLine": 21,
+                    "endColumn": 11,
+                    "endOffset": 1560
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 1439,
+                        "endLine": 24,
+                        "endColumn": 11,
+                        "endOffset": 1621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1565,
+                    "endLine": 24,
+                    "endColumn": 11,
+                    "endOffset": 1901
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 1622,
+                        "endLine": 27,
+                        "endColumn": 11,
+                        "endOffset": 1958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1906,
+                    "endLine": 27,
+                    "endColumn": 13,
+                    "endOffset": 2243
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 0,
+                        "startOffset": 1959,
+                        "endLine": 30,
+                        "endColumn": 13,
+                        "endOffset": 2291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2248,
+                    "endLine": 30,
+                    "endColumn": 13,
+                    "endOffset": 2480
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 0,
+                        "startOffset": 2292,
+                        "endLine": 33,
+                        "endColumn": 13,
+                        "endOffset": 2524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2485,
+                    "endLine": 33,
+                    "endColumn": 13,
+                    "endOffset": 2683
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 0,
+                        "startOffset": 2525,
+                        "endLine": 36,
+                        "endColumn": 13,
+                        "endOffset": 2723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2688,
+                    "endLine": 36,
+                    "endColumn": 11,
+                    "endOffset": 2884
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 0,
+                        "startOffset": 2724,
+                        "endLine": 39,
+                        "endColumn": 11,
+                        "endOffset": 2920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2889,
+                    "endLine": 39,
+                    "endColumn": 11,
+                    "endOffset": 3098
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 0,
+                        "startOffset": 2921,
+                        "endLine": 42,
+                        "endColumn": 11,
+                        "endOffset": 3130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3103,
+                    "endLine": 42,
+                    "endColumn": 11,
+                    "endOffset": 3312
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 0,
+                        "startOffset": 3131,
+                        "endLine": 45,
+                        "endColumn": 11,
+                        "endOffset": 3340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3317,
+                    "endLine": 45,
+                    "endColumn": 11,
+                    "endOffset": 3447
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 0,
+                        "startOffset": 3341,
+                        "endLine": 48,
+                        "endColumn": 11,
+                        "endOffset": 3471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3452,
+                    "endLine": 49,
+                    "endColumn": 11,
+                    "endOffset": 3747
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 0,
+                        "startOffset": 3472,
+                        "endLine": 52,
+                        "endColumn": 11,
+                        "endOffset": 3767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3752,
+                    "endLine": 53,
+                    "endColumn": 11,
+                    "endOffset": 4047
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 0,
+                        "startOffset": 3768,
+                        "endLine": 56,
+                        "endColumn": 11,
+                        "endOffset": 4063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4052,
+                    "endLine": 56,
+                    "endColumn": 13,
+                    "endOffset": 4357
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 0,
+                        "startOffset": 4064,
+                        "endLine": 59,
+                        "endColumn": 13,
+                        "endOffset": 4369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4362,
+                    "endLine": 59,
+                    "endColumn": 11,
+                    "endOffset": 4587
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 0,
+                        "startOffset": 4370,
+                        "endLine": 62,
+                        "endColumn": 11,
+                        "endOffset": 4595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4592,
+                    "endColumn": 206,
+                    "endOffset": 4794
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 0,
+                        "startOffset": 4596,
+                        "endColumn": 202,
+                        "endOffset": 4798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4799,
+                    "endColumn": 55,
+                    "endOffset": 4850
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 55,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4855,
+                    "endLine": 64,
+                    "endColumn": 13,
+                    "endOffset": 5056
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 0,
+                        "startOffset": 4799,
+                        "endLine": 66,
+                        "endColumn": 13,
+                        "endOffset": 5000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5061,
+                    "endLine": 67,
+                    "endColumn": 13,
+                    "endOffset": 5341
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 0,
+                        "startOffset": 5001,
+                        "endLine": 69,
+                        "endColumn": 13,
+                        "endOffset": 5281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5346,
+                    "endLine": 70,
+                    "endColumn": 13,
+                    "endOffset": 5666
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 0,
+                        "startOffset": 5282,
+                        "endLine": 72,
+                        "endColumn": 13,
+                        "endOffset": 5606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5671,
+                    "endLine": 73,
+                    "endColumn": 11,
+                    "endOffset": 5873
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 0,
+                        "startOffset": 5607,
+                        "endLine": 75,
+                        "endColumn": 11,
+                        "endOffset": 5809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5878,
+                    "endLine": 76,
+                    "endColumn": 13,
+                    "endOffset": 6176
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 0,
+                        "startOffset": 5810,
+                        "endLine": 78,
+                        "endColumn": 13,
+                        "endOffset": 6108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 6181,
+                    "endLine": 79,
+                    "endColumn": 13,
+                    "endOffset": 6389
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 0,
+                        "startOffset": 6109,
+                        "endLine": 81,
+                        "endColumn": 13,
+                        "endOffset": 6317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 6394,
+                    "endLine": 82,
+                    "endColumn": 13,
+                    "endOffset": 6584
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 0,
+                        "startOffset": 6318,
+                        "endLine": 84,
+                        "endColumn": 13,
+                        "endOffset": 6508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 6589,
+                    "endLine": 88,
+                    "endColumn": 8,
+                    "endOffset": 6859
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/commonwidget/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 405,
+                        "endLine": 16,
+                        "endColumn": 8,
+                        "endOffset": 675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6864,
+                    "endLine": 91,
+                    "endColumn": 8,
+                    "endOffset": 7022
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 0,
+                        "startOffset": 6585,
+                        "endLine": 89,
+                        "endColumn": 8,
+                        "endOffset": 6743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 7027,
+                    "endLine": 93,
+                    "endColumn": 8,
+                    "endOffset": 7086
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 0,
+                        "startOffset": 6832,
+                        "endLine": 93,
+                        "endColumn": 8,
+                        "endOffset": 6891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 7091,
+                    "endLine": 99,
+                    "endColumn": 8,
+                    "endOffset": 7333
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 0,
+                        "startOffset": 6968,
+                        "endLine": 101,
+                        "endColumn": 8,
+                        "endOffset": 7210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7338,
+                    "endLine": 106,
+                    "endColumn": 8,
+                    "endOffset": 7688
+                },
+                "from": {
+                    "file": "/home/juan/curro/HelloOpenGLES20/app/build/intermediates/exploded-aar/common/res/values/values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 0,
+                        "startOffset": 7299,
+                        "endLine": 110,
+                        "endColumn": 8,
+                        "endOffset": 7649
+                    }
+                }
+            }
+        ]
+    }
+]
